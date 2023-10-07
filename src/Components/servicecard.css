@@ -1,0 +1,38 @@
+.circle-div{
+    transition: transform 0.5s ease;
+}
+.circle-div:hover{
+    transform: scale(1.8);
+}
+
+.title>*{
+    overflow: hidden;
+    height: 30px;;
+    transition: height .5s ease;
+}
+
+
+
+  .circle-div:hover + .title>* {
+    height: 0; /* Adjust the desired height when the circle-div is hovered */
+  }
+
+  .circle-div .image-div{
+    width: 200px;
+    height: 140px;
+    transition: transform 0.3s ease-in-out;
+  }
+  .circle-div:hover .image-div {
+    transform: scale(0.5) translateY(160%);
+    transition: transform 0.5s ease;
+  }
+
+.h-text {
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.5s ease, visibility 0.5s ease;
+}
+.circle-div:hover .h-text {
+    opacity: 1;
+    visibility: visible;
+  }

@@ -1,0 +1,74 @@
+[
+    {
+      "title": "User Experience",
+      "title2": "We are all users",
+      "title3": "How users interact",
+      "image": "https://www.codigo.co/_next/image?url=%2Fimages%2Fservices%2Fux.png&w=3840&q=85",
+      "description": "With over 200 digital projects and counting, we get what users want and need pretty easily. UX is the core to everything we build. In Codigo, we take user research, competitive analysis, wireframes, user flows, content maps very seriously.",
+      "backgroundColor":"#FFFF65"
+      
+    },
+    {
+      "title": "Interface Design",
+      "title2": "We live to design",
+      "title3": "For all screens in the world",
+      "image": "https://www.codigo.co/_next/image?url=%2Fimages%2Fservices%2Fui.png&w=3840&q=85",
+      "description": "We have pixel OCD. We keep ourselves constantly inspired with the hype and trends in the design industry to craft gorgeous interactions for your brand.",
+      "backgroundColor":"#EDD9DC"
+      
+    },
+    {
+      "title": "Consultancy",
+      "title2": "We can help validate your ideas.",
+      "title3": "For proof-of-concepts",
+      "image": "https://www.codigo.co/_next/image?url=%2Fimages%2Fservices%2Fco.png&w=3840&q=85",
+      "description": "Ready to take the first step? Let us help with a minimum viable product. Tap on our brains and experience to create a semi-product to test the waters. Consult us on user experience, how the product could look like and turn it into a rapid prototype.",
+      "backgroundColor":"#B2252E"
+      
+    },
+    {
+        "title": "Mobile Development",
+        "title2": "We are Apple & Android friendly",
+        "title3": "iOS & Android",
+        "image": "https://www.codigo.co/_next/image?url=%2Fimages%2Fservices%2Fmob.png&w=3840&q=85",
+         "description": "Native, ReactNative, payment gateway integration, bespoke CMS, consuming APIs from existing sources and all things mobile app relevant. We’ve mostly done it all.",
+         "backgroundColor":"#1888E8"
+      
+    },
+      {
+        "title": "Mobile Development",
+        "title2": "We weave front-end magic.",
+        "title3": "For business any shape and size",
+        "image": "https://www.codigo.co/_next/image?url=%2Fimages%2Fservices%2Fweb.png&w=3840&q=85",
+         "description": "Web portals, microsites (yes, they still exist), web apps - responsive, powered by WordPress or supported by a bespoke CMS. No screen sizes scare us, only IE does.",
+         "backgroundColor":"#FF8D6E"
+      
+    },
+      {
+        "title": "CMS",
+        "title2": "We give u data.",
+        "title3": "Manage your own content",
+        "image": "https://www.codigo.co/_next/image?url=%2Fimages%2Fservices%2Fcms.png&w=3840&q=85",
+         "description": "All bespoke CMS we build comes with a dashboard so you can monitor the activities on your product. Edit or add content at your convenience - we’ll customise everything to your wants and needs.",
+         "backgroundColor":"#16A151"
+      
+    },
+      {
+        "title": "Emerging Tech",
+        "title2": "We have all the fancy gadgets.",
+        "title3": "Because we are geeks",
+        "image": "https://www.codigo.co/_next/image?url=%2Fimages%2Fservices%2Fet.png&w=3840&q=85",
+         "description": "Bluetooth, beacon, NFC, Augmented reality, IoT and more - we know and we have all these buzzwords in our office. We put Superman in AR before Pokemon Go did.",
+         "backgroundColor":"#483245"
+      
+    },
+      {
+        "title": "Coaching",
+        "title2": "We’d love to share.",
+        "title3": "Come and learn our secrets",
+        "image": "https://www.codigo.co/_next/image?url=%2Fimages%2Fservices%2Fcoach.png&w=3840&q=85",
+         "description": "Attend our Masterclasses with the Codigo syllabus or talk to us to customise sessions just for your business teams",
+         "backgroundColor":"#873955"
+     
+    }
+  ]
